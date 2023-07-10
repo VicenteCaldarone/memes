@@ -70,7 +70,6 @@ const Imgmemes = () => {
                     <option key={img.id} value={img.id}>{img.name}</option>
                     ))}                    
                 </select> 
-
             </div>
             <div className='col-12 col-sm-6'>
                 <figure id="exportar" className="position-relative">
